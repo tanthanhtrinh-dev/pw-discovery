@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx ts-node *)",
+      "Bash(npx tsx *)",
+      "Bash(git rev-list *)",
+      "Bash(git mv *)",
+      "Bash(mv .claude/settings.local.json .claude/settings.json)"
+    ]
+  }
+}

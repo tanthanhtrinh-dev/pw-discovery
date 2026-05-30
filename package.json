@@ -18,8 +18,9 @@
   "dependencies": {
     "@axe-core/playwright": "^4.10.1",
     "axe-html-reporter": "^2.2.11",
-    "csv-parse": "^5.5.6",
+    "csv-parse": "^5.6.0",
     "dotenv": "^16.4.5",
+    "playwright": "^1.59.1",
     "save-dev": "^0.0.1-security",
     "sharp": "^0.34.4"
   }
