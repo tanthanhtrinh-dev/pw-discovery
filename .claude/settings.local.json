@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m 'chore: add Claude Code workspace settings *)",
+      "Bash(git checkout *)",
+      "Bash(git pull *)",
+      "Bash(git merge *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
+    ]
+  }
+}
